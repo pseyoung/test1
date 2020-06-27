@@ -3,4 +3,4 @@
 ### 여러분  
 #### 바이바이  
 ![꽃2.jpg](https://github.com/pseyoung/test1/blob/master/%EA%BD%832.jpg)  
-![동영상](https://youtu.be/1exxA_zg_-0)
+[![Vue](/images/vue.png)](https://youtu.be/1exxA_zg_-0)
